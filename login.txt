@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new text was added local
+=======
+changet in github
+>>>>>>> ff2fd6f6d435fca0b30d251ec3e60a91617987ac
